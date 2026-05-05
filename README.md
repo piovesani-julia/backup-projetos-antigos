@@ -1,10 +1,12 @@
 Coletânea de Projetos Escolares
 
 Este repositório reúne projetos antigos desenvolvidos durante minha trajetória escolar. É um arquivo pessoal que documenta meu aprendizado, exercícios, trabalhos e experimentos da época.
-📚 Sobre os Projetos
+
+Sobre os Projetos
 
 Os códigos aqui presentes foram criados em contexto de aprendizado, durante disciplinas, atividades extracurriculares ou projetos pessoais da escola. Eles representam minha evolução técnica desde os primeiros contatos com programação.
-🧠 Propósito do Repositório
+
+Propósito do Repositório
 
     Preservar trabalhos importantes da minha formação
 
